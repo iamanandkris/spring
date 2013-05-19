@@ -1,4 +1,0 @@
-spring
-======
-
-Spring related examples
